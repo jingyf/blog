@@ -19,3 +19,6 @@ replay-log-index = replay-log-index
 - 链接到主服务器开始复制数据  
  `mysql> CHANGE MASTER TO MASTER_HOST='',MASTER_PORT='',MASTER_LOG_FILE='',MASTER_LOG_POS='',MASTER_USER='',MASTER_PASSWORD='';`
  `mysql> START SLAVE;`
+
+
+test
